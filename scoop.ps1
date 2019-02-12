@@ -1,4 +1,4 @@
-scoop install -y `
+scoop install `
 7zip `
 cacert `
 curl ` 
